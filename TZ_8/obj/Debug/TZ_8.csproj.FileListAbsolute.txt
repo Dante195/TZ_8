@@ -1,0 +1,7 @@
+D:\Games\Visual Studio\TZ_CRY\TZ_8\TZ_8\bin\Debug\TZ_8.exe.config
+D:\Games\Visual Studio\TZ_CRY\TZ_8\TZ_8\bin\Debug\TZ_8.exe
+D:\Games\Visual Studio\TZ_CRY\TZ_8\TZ_8\bin\Debug\TZ_8.pdb
+D:\Games\Visual Studio\TZ_CRY\TZ_8\TZ_8\obj\Debug\TZ_8.csproj.AssemblyReference.cache
+D:\Games\Visual Studio\TZ_CRY\TZ_8\TZ_8\obj\Debug\TZ_8.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\TZ_CRY\TZ_8\TZ_8\obj\Debug\TZ_8.exe
+D:\Games\Visual Studio\TZ_CRY\TZ_8\TZ_8\obj\Debug\TZ_8.pdb
